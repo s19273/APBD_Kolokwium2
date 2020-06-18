@@ -86,8 +86,6 @@ C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Kolokwium2\AP
 C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Kolokwium2\APBD_Kolokwium2\Kolokwium2_s19273\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Kolokwium2\APBD_Kolokwium2\Kolokwium2_s19273\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Kolokwium2\APBD_Kolokwium2\Kolokwium2_s19273\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Kolokwium2\APBD_Kolokwium2\Kolokwium2_s19273\obj\Debug\netcoreapp3.1\Kolokwium2_s19273.csproj.CoreCompileInputs.cache
-C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Kolokwium2\APBD_Kolokwium2\Kolokwium2_s19273\obj\Debug\netcoreapp3.1\Kolokwium2_s19273.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Kolokwium2\APBD_Kolokwium2\Kolokwium2_s19273\obj\Debug\netcoreapp3.1\Kolokwium2_s19273.csproj.CopyComplete
 C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Kolokwium2\APBD_Kolokwium2\Kolokwium2_s19273\obj\Debug\netcoreapp3.1\Kolokwium2_s19273.dll
 C:\Users\HubertJ\Desktop\Studia\[ APBD ] Aplikacje Baz Danych\APBD_Kolokwium2\APBD_Kolokwium2\Kolokwium2_s19273\obj\Debug\netcoreapp3.1\Kolokwium2_s19273.pdb
