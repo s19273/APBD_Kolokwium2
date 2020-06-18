@@ -7,5 +7,7 @@ namespace Kolokwium2_s19273.DTO.Reponse
 {
     public class GetTeamResp
     {
+        public int IdChampionship { get; set; }
+        public Dictionary<string, float> TeamScore { get; set; }
     }
 }
